@@ -1,8 +1,8 @@
 import telebot
 import requests
 
-BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-OPENROUTER_API_KEY = 'YOUR_OPENROUTER_API_KEY'
+BOT_TOKEN = '7226274181:AAEbzTRtg_GciVh_wd1042QFMiu9YR-FaJ0'
+OPENROUTER_API_KEY = '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'
 CHARACTER_NAME = "Luna"  # যেকোনো রোমান্টিক নাম
 
 bot = telebot.TeleBot(BOT_TOKEN)
